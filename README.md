@@ -73,13 +73,13 @@ All REST APIs are tested using Postman, including:
 - Invoice generation APIs
 
 ---
-
-##Author
-Srushti Mohadikar
-
 ## How to Run the Project
 1. Clone the repository
 2. Open the project in IntelliJ IDEA or Eclipse
 3. Configure MySQL database connection
 4. Run the main Spring Boot application class
 5. Test the APIs using Postman or Swagger
+
+---
+## Author 
+Srushti Mohadikar
